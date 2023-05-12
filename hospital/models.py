@@ -77,5 +77,4 @@ class PatientDischargeDetails(models.Model):
     total=models.PositiveIntegerField(null=False)
 
 
-#Developed By : james musembi
-
+#Developed By : James Musembi
